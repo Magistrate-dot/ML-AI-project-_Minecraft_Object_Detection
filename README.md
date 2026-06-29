@@ -1,4 +1,4 @@
-#ML-AI Project: Minecraft object detection.
+# ML-AI Project: Minecraft object detection.
 
 ##Github repository:
 [https://github.com/Magistrate-dot/ML-AI-project-_Minecraft_Object_Detection/tree/main]
