@@ -10,7 +10,8 @@ This project compare's two object detection models: YOLO11n and YOLO11s, to inve
 ultralytics, huggingface_hub, os, json, shtill, collections, scikit-learn, matplotlib, pandas, !Python.display 
 
 ## Dataset
-The data set is dowloaded from Huggingface using:
+The data set is dowloaded from Huggingface using: 
+
 from huggingface_hub import snapshot_download
 DATASET_PATH = "/content/minecraft_dataset"
 
