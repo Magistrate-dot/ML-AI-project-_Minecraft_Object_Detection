@@ -1,7 +1,6 @@
 #ML-AI Project: Minecraft object detection.
 ##Github repository:
-ML-AI-project-_Minecraft_Object_Detection
-Notebook: https://github.com/Magistrate-dot/ML-AI-project-_Minecraft_Object_Detection/blob/main/Minecraft_Mob_Detection_model_Comparison_.ipynb
+(https://github.com/Magistrate-dot/ML-AI-project-_Minecraft_Object_Detection/tree/main)
 ##Project overview:
 This project compare's two object detection models: YOLO11n and YOLO11s, to investigates the trade-off between Computational efficiency and detection performance in object detection. These models are trained and evaluated using the Minecraft Mob's dataset from Huggingface. These models are compared against one and other using the following metrics: precision, recall and mAP, as well as a 'Live' test using an image containing one of the trained mob's and one that isn't trained.
 
